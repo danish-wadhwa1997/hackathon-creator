@@ -45,6 +45,22 @@
       "tags": ["Tech", "Feature"],
       "upvotes": 500,
       "createdOn": "15-02-2021"
+    },
+    {
+      "id": 3,
+      "title": "Wealthiest Neighbour",
+      "description": "Get the Wealthiest Neighbour, and here are some test cases ",
+      "tags": ["Tech", "Feature"],
+      "upvotes": 500,
+      "createdOn": "15-02-2021"
+    },
+    {
+      "id": 4,
+      "title": "Wealthiest Neighbour",
+      "description": "Get the Wealthiest Neighbour, and here are some test cases ",
+      "tags": ["Tech", "Feature"],
+      "upvotes": 500,
+      "createdOn": "15-02-2021"
     }
   ],
   "fixedTags": [
