@@ -1,0 +1,59 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "fullName": "danny",
+      "email": "test@test.com",
+      "contact": "15481355",
+      "active": true
+    },
+    {
+      "id": "2",
+      "fullName": "DW",
+      "email": "testDW@test.com",
+      "contact": "533941384",
+      "active": true
+    },
+    {
+      "id": "3",
+      "fullName": "Danish",
+      "email": "testDa@test.com",
+      "contact": "3941384161",
+      "active": false
+    },
+    {
+      "id": "4",
+      "fullName": "Danish Wadhwa",
+      "email": "dwtestdw@test.com",
+      "contact": "8411684684",
+      "active": true
+    }
+  ],
+  "challenges": [
+    {
+      "id": 1,
+      "title": "Find the Bugs",
+      "description": "Please find the bugs in the given code",
+      "tags": ["Tech", "Bugs"],
+      "upvotes": 500,
+      "createdOn": "15-02-2021"
+    },
+    {
+      "id": 2,
+      "title": "Wealthiest Neighbour",
+      "description": "Get the Wealthiest Neighbour, and here are some test cases ",
+      "tags": ["Tech", "Feature"],
+      "upvotes": 500,
+      "createdOn": "15-02-2021"
+    }
+  ],
+  "fixedTags": [
+    "Feature",
+    "Tech",
+    "AI/ML",
+    "Web DEV",
+    "DNA Testing",
+    "Node.js",
+    "Bugs"
+  ]
+}
